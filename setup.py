@@ -5,8 +5,8 @@ setup(
     version="1.0.0",
     description="A comprehensive security utility library for encryption, scanning, and vulnerability detection",
     author="Your Name",
-    author_email="your_email@example.com",
-    url="",  # 必要に応じて変更
+    author_email="kaede04079642@outlook.com",
+    url="https://github.com/Wadakaede/secure_lib.git",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
