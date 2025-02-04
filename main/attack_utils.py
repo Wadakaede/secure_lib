@@ -2,7 +2,6 @@ import requests
 
 def load_wordlist_from_file(file_path):
     with open(file_path, 'r') as file:
-        # ファイル内の各行を取り出してリストに格納
         wordlist_from_file = [line.strip() for line in file.readlines()]
     return wordlist_from_file
 
