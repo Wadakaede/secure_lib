@@ -2,7 +2,7 @@ from setuptools import setup, find_packages # type: ignore
 
 setup(
     name="securelib",
-    version="1.1.2",
+    version="1.1.3",
     description="A comprehensive security utility library for encryption, scanning, and vulnerability detection",
     author="Your Name",
     author_email="kaede04079642@outlook.com",
